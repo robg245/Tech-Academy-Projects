@@ -1,1 +1,1 @@
-I'm using Git Bash to upload and commit this file to my repository.
+I've currently been troubleshooting for 4 hours why I can't add it to my projects repository.
